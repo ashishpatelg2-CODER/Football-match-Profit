@@ -31,3 +31,6 @@ The analysis of the provided dataset (`D1.csv`) revealed:
 
 ## 📝 Conclusion
 This project demonstrates that "real money" in sports trading is made through mathematical discipline rather than guesswork. By beating the closing line and applying strict bankroll management, this model provides a framework for long-term profitability.
+
+## ⚠️ Disclaimer
+No Financial Advice: The contents of this project do not constitute financial or betting advice. Sports betting involves significant risk of loss. Users should never wager money they cannot afford to lose.
