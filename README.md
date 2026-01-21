@@ -1,4 +1,5 @@
 # Football Match Predictor & Value Bet Finder
+<img width="1281" height="724" alt="image" src="https://github.com/user-attachments/assets/300a4459-8ebf-4219-a9dd-3e90dafc8e29" />
 
 ## 📌 Project Overview
 This repository contains a technical sports analytics engine designed to identify market inefficiencies in football betting. By utilizing a **Poisson Distribution model**, the system calculates the "Fair Odds" of a match and compares them against bookmaker prices to find high-value, profitable opportunities.
